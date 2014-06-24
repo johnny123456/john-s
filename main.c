@@ -1,4 +1,5 @@
 #include"/lee/inc/printf_l.h"
+#include<stdio.h>
 
 int main(int argc, char * argv[])
 {
